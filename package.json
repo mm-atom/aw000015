@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/aw000015",
-	"version": "1.0.202003161019",
+	"version": "1.0.202003171143",
 	"description": "storage get",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
